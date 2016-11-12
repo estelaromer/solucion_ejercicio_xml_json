@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planta>
+   <contenedor tipo="grande">
+      <envase tamaño="grande" forma="ancho">
+         <líquido categoría="alimento">Agua</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="grande">
+      <envase tamaño="grande" forma="ancho">
+         <líquido categoría="alimento">Leche</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="grande">
+      <envase tamaño="grande" forma="ancho">
+         <líquido categoría="alimento">Vinagre</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="grande">
+      <envase tamaño="grande" forma="ancho">
+         <líquido categoría="alimento">Aceite</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="mediano" forma="ancho">
+         <líquido categoría="alimento">Agua</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="mediano" forma="ancho">
+         <líquido categoría="alimento">Leche</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="mediano" forma="ancho">
+         <líquido categoría="alimento">Vinagre</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="mediano" forma="ancho">
+         <líquido categoría="alimento">Aceite</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="pequeño">
+         <líquido categoría="corrosivo">Lejía</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="pequeño">
+         <líquido categoría="corrosivo">Amoniaco</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="pequeño">
+         <líquido categoría="corrosivo">Jabón</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="pequeño">
+         <líquido categoría="corrosivo">Aguarrás</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="pequeño">
+         <líquido categoría="corrosivo">Gasolina</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="mediano">
+      <envase tamaño="pequeño">
+         <líquido categoría="corrosivo">Alcohol</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="grande" forma="alto">
+         <líquido categoría="alimento">Agua</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="grande" forma="alto">
+         <líquido categoría="alimento">Leche</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="grande" forma="alto">
+         <líquido categoría="alimento">Vinagre</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="grande" forma="alto">
+         <líquido categoría="alimento">Aceite</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="mediano" forma="alto">
+         <líquido categoría="corrosivo">Lejía</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="mediano" forma="alto">
+         <líquido categoría="corrosivo">Amoniaco</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="mediano" forma="alto">
+         <líquido categoría="corrosivo">Jabón</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="mediano" forma="alto">
+         <líquido categoría="corrosivo">Aguarrás</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="mediano" forma="alto">
+         <líquido categoría="corrosivo">Gasolina</líquido>
+      </envase>
+   </contenedor>
+   <contenedor tipo="alto">
+      <envase tamaño="mediano" forma="alto">
+         <líquido categoría="corrosivo">Alcohol</líquido>
+      </envase>
+   </contenedor>
+</planta>
